@@ -23,5 +23,5 @@
 # Saldo disimpan menggunakan tipe decimal(15,2).
 # Sistem harus bisa berjalan di komputer sederhana tanpa konfigurasi kompleks.
 # Kode harus mengikuti struktur default Laravel (MVC).
-<img width="1052" height="307" alt="image" src="https://github.com/user-attachments/assets/b04b0ba4-cf70-4921-a0ee-3ce6ada9faa5" />
+
  
