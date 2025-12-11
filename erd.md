@@ -1,3 +1,4 @@
+```mermaid
 erDiagram
     USERS ||--|| WALLETS : punya
     WALLETS ||--o{ TOPUPS : menambahkan
@@ -43,3 +44,4 @@ erDiagram
         datetime created_at
         datetime update_at
     }
+```
