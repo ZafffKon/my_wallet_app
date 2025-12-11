@@ -1,4 +1,3 @@
-# my_wallet_app
 # requirement.md
 # Requirement fungsional adalah kebutuhan fitur yang harus dapat dilakukan oleh sistem.
 # Functional Requirements:
