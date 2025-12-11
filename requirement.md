@@ -1,6 +1,6 @@
 # requirement.md 
 # Requirement fungsional adalah kebutuhan fitur yang harus dapat dilakukan oleh sistem.
-
+# ___________________________________________
 # Functional Requirements:
 # 1.User dapat membuat akun baru.
 # 2.User dapat login menggunakan JWT Token.
@@ -13,7 +13,7 @@
 # 9.User dapat melihat riwayat pengeluaran.
 # 10.User dapat melihat profil.
 # 11.User dapat mengubah data profil.
-
+# ____________________________________________
 # Non Functional Requirement:
 # 1.Aplikasi harus dibuat menggunakan Laravel 11.
 # 2.Database menggunakan MySQL.
